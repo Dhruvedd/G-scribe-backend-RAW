@@ -3,7 +3,8 @@ import openai  # for OpenAI API
 from fpdf import FPDF  # for PDF generation
 
 # Paths to input and output files
-pdf_path = "sample_test.pdf"  # Replace with the actual PDF file path
+pdf_path = "sample_test2.pdf"  # Replace with the actual PDF file path
+
 txt_file_path = "text.txt"  # Output text file path
 
 # Function to extract text from the PDF
