@@ -106,7 +106,7 @@ At the end, please include:
 Sign of Doctor: Dr. [Doctor’s Name]
 """
 
-api_key = "sk-6WoL_c40FFZFeAQp1WX4OkkKHMgoIrteTNxlshjROdT3BlbkFJzCvmdqEXdxh5Ny-sPqZPB5VA16T00I7Ib9vhqtdbkA"  # Replace with your actual OpenAI API Key
+api_key = ""  # Replace with your actual OpenAI API Key
 
 # Read text from file
 text = read_text_from_file(file_path)
