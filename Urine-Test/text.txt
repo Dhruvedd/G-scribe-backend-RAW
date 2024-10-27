@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Urinalysis Sample Report 
 Different laboratories generate reports that can vary greatly in appearance and in the order and kind of 
 information included. This is one example of what a lab report for a urinalysis may look like. Names and 
@@ -182,3 +183,189 @@ Names and places used have been made up for illustrative purposes only. The numb
 right explains a few of the report elements. 
 19
 20
+=======
+Urinalysis Sample Report 
+Different laboratories generate reports that can vary greatly in appearance and in the order and kind of 
+information included. This is one example of what a lab report for a urinalysis may look like. Names and 
+places used have been made up for illustrative purposes only. Point your cursor at a number to learn 
+about the different report elements. 
+University Medical Center, Dept. of Pathology 
+Report Date/Time: 
+123 University Way, City, ST 12345 
+02/22/2014 
+11:15 
+Name: 
+Smith, Mary 
+Age/Sex: 62/F 
+DOB: 
+01/15/52 
+Patient ID: 
+1248899554 
+Attend Dr: 
+Doe, Jane MD 
+Status: 
+Routine 
+SPEC #: 
+0214 : U00024 
+Collection Date/Time: 
+02/22/14 
+07:30 
+Received Date/Time: 
+02/22/14 
+10:00 
+ORDERED: 
+UA-MIC IF IND, UA MICRO 
+QUERIES: 
+Patient’s current antibiotic(s):  UNKNOWN AT THIS TIME 
+Urine source:  CLEAN CATCH 
+Do C&S if indicated:  YES 
+Test 
+Normal 
+Abnormal 
+Flag 
+Reference 
+URINALYSIS, MICROSCOPIC IF INDICATED 
+COLOR 
+YELLOW 
+YELLOW 
+APPEARANCE 
+HAZY 
+CLEAR 
+GLUCOSE 
+NEGATIVE 
+NEGATIVE 
+BILIRUBIN 
+NEGATIVE 
+NEGATIVE 
+KETONE 
+NEGATIVE 
+NEGATIVE 
+SPEC GRAV 
+1.017 
+1.003 – 1.035 
+BLOOD 
+NEGATIVE 
+TRACE 
+NEGATIVE 
+PH 
+6.0 
+5.0 – 8.0 
+PROTEIN 
+NEGATIVE 
+NEGATIVE 
+UROBILINOGEN 
+0.3 
+0.1 – 1.0 mg/dL 
+NITRITE 
+POSITIVE 
+H 
+NEGATIVE 
+LEUK ESTERASE 
+2+ 
+H 
+NEGATIVE 
+MICROSCOPIC INDICATED? 
+YES 
+URINE MICROSCOPIC 
+RBC 
+OCCASIONAL 
+H 
+NONE SEEN /hpf 
+Values outside the reference range should be interpreted in context with the patient’s 
+clinical condition. 
+WBC 
+20 – 30 
+H 
+NONE SEEN /hpf 
+EPITHELIAL CELLS 
+1 – 5 SQUAMOUS 
+SQUAMOUS /hpf 
+BACTERIA 
+4+ 
+H 
+0 – 1+ 
+IS A URINE CULTURE INDICATED? 
+YES 
+Criteria for culture is met and a culture will be set up. 
+Please call the Lab if you do not want one. 
+** END OF REPORT ** 
+EXAMPLE ONLY
+1.	 Name and address of the lab where the test was performed. 
+Tests may be run in a physician office lab, a lab located in a 
+clinic or hospital, and/or samples may be sent to a reference 
+laboratory for analysis.
+2.	 Date this copy of the report was printed. This date may be 
+different than the date the results were generated, especially 
+on cumulative reports (those that include results of several 
+different tests run on different days).
+3.	 Patient name or identifier. Links results to the correct person.
+4.	 Patient identifier and identification number. Links results to the 
+correct person.
+5.	 Name of doctor. The lab will send the results to the doctor(s) 
+listed.
+6.	 Status of the test request, such as Routine or STAT (perform 
+test as rapidly as possible).
+7.	 Unique identification number(s). Number(s) assigned to the 
+sample(s) when it arrives at the laborato-ry.
+8.	 Test being requested is a visual and chemical examination of 
+the urine. If there are any abnormal findings then a microscopic 
+evaluation of the urine (IF IND, UA MICRO) will also be 
+performed.
+9.	 Information about the person and urine sample, and a request 
+for added Urine Culture and Suscep-tibility (C&S) testing if 
+urinalysis results indicate that the person appears to have an 
+infection.
+10.	The date and time of sample collection
+11.	The date and time that the laboratory received the sample.
+12.	A listing of the aspects of the urine that are being evaluated.
+13.	A listing of the urinalysis results that are normal.
+14.	A listing of the urinalysis results that are abnormal.
+15.	An ‘H’ in this column may mean that the result is higher than 
+the reference range. ‘L’ may mean ‘low.’ Either represents a 
+result outside the reference range/value.
+16.	Reference is the list of expected results in a “normal” urine.
+17.	This is the list of visual aspects evaluated and chemical tests 
+performed using a test strip.
+18.	This microscopic evaluation of the urine is often only 
+performed “if indicated” – when there are ab-normal findings 
+on the visual and chemical examination. The results will list 
+anything that is seen under the microscope.  It is quantified by 
+number (so many per high power field (hpf)), or by a scale (such 
+as 1+, 2+, 3+).  This may include cells, crystals, bacteria, etc.
+19.	A comment to the doctor/person reading the report that the 
+abnormal results noted should be con-sidered in the context of 
+the person’s clinical condition.  For instance bacteria and white 
+blood cells (WBC)s may indicate an infection; but bacteria 
+along with a significant number of epithelial cells could indicate 
+an improper sample collection.
+20.	The urinalysis results shown indicate that the person likely has 
+an infection. For this reason, and because of the “Do C&S if 
+indicated:  YES” comment under QUERIES, a culture will be 
+automatically performed unless the doctor requests that the 
+test not be performed.
+1
+2
+6
+18
+17
+16
+15
+14
+13
+12
+11
+10
+8
+7
+5
+4
+3
+9
+URINALYSIS SAMPLE REPORT
+Different laboratories generate reports that can vary greatly in appearance and in the order and 
+kind of information included. This is one example of what a lab report for a urinalysis may look like. 
+Names and places used have been made up for illustrative purposes only. The numbered key to the 
+right explains a few of the report elements. 
+19
+20
+>>>>>>> 4b7f7c93a6819bbf97770801488d00f6ce949bf1
