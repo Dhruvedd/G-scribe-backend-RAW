@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+note = ""
+
 API_KEY = os.getenv("API_KEY")
 
 # Paths to input and output files
@@ -46,7 +48,7 @@ def analyze_text_with_openai(text, prompt, api_key):
     openai.api_key = api_key
     
     # Prepare the input prompt for the model, requesting structured output
-    full_prompt = f"{prompt}\n\nPatient's Blood Test Report:\n{text}\n"
+    full_prompt = f"{prompt}\n\nPatient's Blood Test Report:\n{text}\n Doctor's Note to be added at the bottom of the report: {note}"
 
     try:
         # Use the chat completions API

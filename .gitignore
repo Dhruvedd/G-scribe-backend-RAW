@@ -1,9 +1,6 @@
-ECG_Test/venv/
-Blood-Test/venv/
-Urine-Test/venv/
+*venv
 *.env
-Urine-Test/fonts/
 h.txt
-Blood-Test/fonts/
-ECG-Test/venv/
+*fonts/
+
 ECG-Test

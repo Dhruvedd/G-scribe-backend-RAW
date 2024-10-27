@@ -1,0 +1,184 @@
+LPL - PRODUCTION TEST COLLECTION 
+CENTRE
+SECTOR - 18, BLOCK-E  ROHINI
+DELHI 110085
+Name        
+A/c Status 
+Lab No.    
+Ref By : 
+Gender: 
+Age: 
+Report Status    
+Reported        
+Received            
+Collected        
+P
+:
+:
+:
+:
+:
+:
+: Final
+25 Years
+4/6/2021  11:18:00AM
+4/6/2021  11:23:07AM
+DUMMYZ005
+Male
+DR. DUMMY  DUMMY
+   DUMMY
+5/6/2021  8:19:59PM
+Test Name
+Results
+Units
+Bio. Ref. Interval
+LIVER PANEL 1; LFT,SERUM
+<10
+AST (SGOT)
+(IFCC without P5P)
+ 15.00 - 40.00 
+U/L
+<10
+ALT (SGPT)
+(IFCC without P5P)
+ 10.00 - 49.00 
+U/L
+1.00
+AST:ALT Ratio
+(Calculated)
+ <1.00 
+<10
+GGTP
+(IFCC)
+ 0 - 73 
+U/L
+<30
+Alkaline Phosphatase (ALP)
+(IFCC-AMP)
+ 30.00 - 120.00 
+U/L
+0.90
+Bilirubin  Total
+(DPD)
+ 0.30 - 1.20 
+mg/dL
+0.20
+Bilirubin  Direct
+(DPD)
+ <0.3 
+mg/dL
+0.70
+Bilirubin  Indirect
+(Calculated)
+ <1.10 
+mg/dL
+>12.00
+Total Protein
+(Biuret)
+ 5.70 - 8.20 
+g/dL
+2.00
+Albumin
+(BCG)
+ 3.20 - 4.80 
+g/dL
+0.10
+A : G Ratio
+(Calculated)
+ 0.90 - 2.00 
+Note
+1.
+In an asymptomatic patient, Non alcoholic fatty liver disease (NAFLD) is the most common cause of 
+increased AST, ALT levels. NAFLD is considered as hepatic manifestation of metabolic syndrome.
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+*DUMMYZ005*
+.
+Page 1 of 2
+LPL - PRODUCTION TEST COLLECTION 
+CENTRE
+SECTOR - 18, BLOCK-E  ROHINI
+DELHI 110085
+Name        
+A/c Status 
+Lab No.    
+Ref By : 
+Gender: 
+Age: 
+Report Status    
+Reported        
+Received            
+Collected        
+P
+:
+:
+:
+:
+:
+:
+: Final
+25 Years
+4/6/2021  11:18:00AM
+4/6/2021  11:23:07AM
+DUMMYZ005
+Male
+DR. DUMMY  DUMMY
+   DUMMY
+5/6/2021  8:19:59PM
+Test Name
+Results
+Units
+Bio. Ref. Interval
+2.
+In most type of liver disease, ALT activity is higher than that of AST; exception may be seen in Alcoholic 
+Hepatitis, Hepatic Cirrhosis, and Liver neoplasia. In a patient with Chronic liver disease, AST:ALT 
+ratio>1 is highly suggestive of advanced liver fibrosis.
+3.
+In known cases of Chronic Liver disease due to Viral Hepatitis B & C, Alcoholic liver disease or NAFLD,  
+Enhanced liver fibrosis (ELF) test may be used  to evaluate liver fibrosis.
+4.
+In a patient with Chronic Liver disease,  AFP and Des-gamma carboxyprothrombin (DCP)/PIVKA II can 
+be used to assess risk for development of Hepatocellular Carcinoma.
+Dr Himangshu Mazumdar
+MD, Biochemistry
+Senior Consultant - Clinical Chemistry 
+& Biochemical Genetics                     
+NRL - Dr Lal PathLabs Ltd
+Dr.Kamal Modi
+MD, Biochemistry
+Consultant Biochemist                               
+NRL - Dr Lal PathLabs Ltd
+Dr Nimmi Kansal
+MD, Biochemistry
+National Head - Clinical Chemistry & 
+Biochemical Genetics                     
+NRL - Dr Lal PathLabs Ltd
+             -------------------------------End of report --------------------------------
+IMPORTANT INSTRUCTIONS
+*Test results released pertain to the specimen submitted.*All test results are dependent on the quality of the sample received by the Laboratory . 
+*Laboratory investigations are only a tool to facilitate in arriving at a diagnosis and should be clinically correlated by the Referring Physician .*Sample 
+repeats are accepted on request of Referring Physician within 
+7 days post reporting.*Report delivery may be delayed due to unforeseen 
+circumstances. Inconvenience is regretted.*Certain tests may require further testing at additional cost for derivation of exact value. Kindly submit 
+request 
+within 
+72 hours 
+post 
+reporting.*Test 
+results 
+may 
+show 
+interlaboratory 
+variations.*The 
+Courts/Forum 
+at 
+Delhi 
+shall 
+have 
+exclusive 
+jurisdiction in all disputes/claims concerning the test(s) & or results of test(s).*Test results are not valid for medico legal purposes. *Contact 
+customer care  Tel No. +91-11-39885050 for all queries related to test results.
+(#) Sample drawn from outside source.
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+*DUMMYZ005*
+.
+Page 2 of 2
