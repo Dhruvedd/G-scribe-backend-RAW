@@ -1,5 +1,4 @@
-ECG_Test\venv
-Blood-Test\venv
-Blood-Test\.env
-Urine-Test\venv
-Urine-Test\.env
+ECG_Test/venv/
+Blood-Test/venv/
+Urine-Test/venv/
+*.env
